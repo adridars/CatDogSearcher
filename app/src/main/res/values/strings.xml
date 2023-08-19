@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CatDogSearcher</string>
+    <string name="dog_searcher">Dog Searcher</string>
+    <string name="cat_searcher">Cat Searcher</string>
+    <string name="search_hint">type a breed</string>
+    <string name="fab_dog_content_description">DogIcon</string>
+    <string name="fab_cat_content_description">CatIcon</string>
+
+</resources>
